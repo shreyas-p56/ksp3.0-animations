@@ -1,2 +1,3 @@
-# ksp3.0-animations
-My work in Krittika Summer Project 3.0's Astrophysically Accurate Anymations Project.
+# KSP 3.0 - Anymations Project
+Astrophysically Accurate Anymations is one of the six projects in Krittika Summer Projects 3.0 provided by the Astronomy Club of IIT Bombay. \
+This repository contains the work I have done in the project.
