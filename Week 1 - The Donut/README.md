@@ -6,3 +6,5 @@ Mostly followed the YouTube tutorials from this playlist: https://www.youtube.co
 donut.blend is the Blender file containing all the 3D models. \
 donut_base.png is the 2D texture shading, UV mapped to the base of the donut. \
 Donut.jpg is the rendered image.
+
+**Note:** donut_base.png needs to be saved in the same directory as donut.blend in order to render the texture onto the base of the donut in donut.blend
