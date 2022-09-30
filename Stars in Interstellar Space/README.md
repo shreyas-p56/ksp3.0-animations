@@ -1,2 +1,2 @@
-# Stars in Deep Space
-A short animation of moving through Deep Space.
+# Stars in Interstellar Space
+A short animation of moving through Interstellar Space.
